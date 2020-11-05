@@ -18,7 +18,7 @@ The script also return the stock with the "Greatest % increase", "Greatest % Dec
 
 ## Output
 
-The next image shows the results
+The next image shows the results.
 
 [![](img/2016.png)]()
 
